@@ -18,9 +18,13 @@
   left: 0;
   top: -99999em;
 }
+.sf-navbar li:focus ul,
 .sf-navbar li:hover ul,
+.sf-navbar li:active ul,
 .sf-navbar li.sfHover ul,
+.sf-navbar li li:focus ul,
 .sf-navbar li li:hover ul,
+.sf-navbar li li:active ul,
 .sf-navbar li li.sfHover ul,
 .sf-navbar .active-trail ul {
   left: 0;
